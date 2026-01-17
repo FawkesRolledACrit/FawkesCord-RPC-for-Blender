@@ -18,7 +18,8 @@ A Blender addon that displays your Blender activity on Discord with accurate tim
 - Clean Disconnection - Properly clears Discord status when disabled
 
 ## Screenshots
-
+![Discord Profile](https://imgur.com/CmHIl1o)
+![Blender Panel](https://imgur.com/L3uzZCU)
 Your Discord profile will display:
 - **Line 1**: Current file name or "Working on unsaved file"
 - **Line 2**: Current mode, session time, and lifetime total
