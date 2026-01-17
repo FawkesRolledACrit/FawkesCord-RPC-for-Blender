@@ -19,6 +19,8 @@ A Blender addon that displays your Blender activity on Discord with accurate tim
 
 ## Screenshots
 ![Discord Profile](https://i.ibb.co/mCV9qyXL/Fawkescord-Tracker.png)
+![Fawkescord Menu](https://i.ibb.co/MycC4pZH/Fawkescord-Menu.png)
+
 Your Discord profile will display:
 - **Line 1**: Current file name or "Working on unsaved file"
 - **Line 2**: Current mode, session time, and lifetime total
